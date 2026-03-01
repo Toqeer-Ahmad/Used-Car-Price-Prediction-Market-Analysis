@@ -16,10 +16,11 @@ Key Findings:<br />
 - Random Forest Regressor<br />
 
 ## Model Performance<br />
-| Model | RMSE | R² Score |
-|-------|------|----------|
-| Linear Regression | X | X |
-| Random Forest | X | X |
+| # | Model | RMSE | R² Score |
+|---|-------|------|----------|
+| 0 | Linear Regression | 2508.120645 | 0.923643 |
+| 1 | Ridge Regression	| 2492.504084 | 0.924591 |
+| 2 | Random Forest | 1973.917671 | 0.952706 |
 
 ## Feature Engineering<br />
 - Log transformation applied to skewed variables<br />
