@@ -28,5 +28,4 @@ Key Findings:<br />
 - Standardization of numerical variables<br />
 
 ## Conclusion<br />
-Random Forest achieved the best performance, capturing non-linear relationships between vehicle attributes and price.<br />
-Mileage and model year were the strongest predictors of vehicle value.<br />
+Random Forest achieved the best performance, capturing non-linear relationships between vehicle attributes and price. Mileage and model year were the strongest predictors of vehicle value.<br />
